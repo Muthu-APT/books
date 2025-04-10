@@ -44,7 +44,7 @@ p{
     text-align: justify;
 }
 #Home{
-  background: url(../books/lib.jpg);
+  background: url(lib.jpg);
   background-size: cover;
   background-position: center;
   flex-direction: column;
