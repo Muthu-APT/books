@@ -44,7 +44,7 @@ p{
     text-align: justify;
 }
 #Home{
-  background: url(/exercises/my_website/lib.jpg);
+  background: url(/books/lib.jpg);
   background-size: cover;
   background-position: center;
   flex-direction: column;
